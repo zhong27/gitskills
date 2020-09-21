@@ -1,0 +1,6 @@
+从远程仓库克隆到本地仓库
+	1.建立一个新的仓库或者是已有的仓库
+	2.进入所要克隆仓库的文件夹
+	3.执行命令: git clone git@github.com:zhong27/gitskills.git
+	注：zhong27是github账号，gitskills是该账号下的仓库
+
